@@ -1,0 +1,5 @@
+{
+  "repositoryName": "desafio05-ignite-reactjs",
+  "adapter": "@slicemachine/adapter-next",
+  "libraries": ["./slices"]
+}

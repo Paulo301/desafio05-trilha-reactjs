@@ -1,0 +1,11 @@
+YOUR REPOSITORY
+  Dashboard            https://desafio05-ignite-reactjs.prismic.io
+  API                  https://desafio05-ignite-reactjs.cdn.prismic.io/api/v2
+
+RESOURCES
+  Documentation        https://prismic.dev/init/next-11-13
+  Getting help         https://community.prismic.io
+
+GETTING STARTED
+  Run Slice Machine    yarn run slicemachine
+  Run your project     yarn run dev
